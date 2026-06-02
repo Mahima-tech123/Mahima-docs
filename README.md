@@ -1,23 +1,27 @@
-# Student Grade Tracker
+# Farmer Waste Connect
 
-## About
-A Java-based application that helps manage student records and grades.
+## Problem
+
+Farmers often have agricultural waste that goes unused or gets burned.
+
+## Solution
+
+Farmer Waste Connect helps farmers connect with organizations and businesses that can use agricultural waste.
 
 ## Features
-- Add student details
-- Store marks
-- Calculate average marks
-- Generate grades
 
-## Technology Used
-- Java
+- Add waste listings
+- Enter quantity
+- Add location
+- Share contact details
 
-## Author
-Mahima Pal
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
 
 ## Hackathon Progress
 
-### Day 1
-- Created repository
-- Made first commit
-- Set up project structure
+Day 1: Repository setup and initial commit ✅
+Day 2: Project planning and UI development 🚀
